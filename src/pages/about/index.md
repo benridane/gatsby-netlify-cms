@@ -1,8 +1,8 @@
 ---
 templateKey: about-page
-title: Wakanda JavaScript Developer Meetup
+title: hello benridane.
 mainImage:
-  image: /img/teemu-paananen-376238-unsplash.jpg
+  image: /img/annie-spratt-608001-unsplash.jpg
   imageAlt: Wakanda JavaScript developer presenting at a meetup.
 gallery:
   - image: /img/neonbrand-509131-unsplash.jpg

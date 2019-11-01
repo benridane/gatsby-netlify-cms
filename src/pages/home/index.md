@@ -3,10 +3,10 @@ templateKey: home-page
 headerImage:
   image: /img/annie-spratt-608001-unsplash.jpg
   imageAlt: thinking
-title: Deep thinking for Simple.
-upcomingMeetupHeading: Upcoming Meetup
-noUpcomingMeetupText: Details to be announced.
-mapsNote: Clicking the pin opens Google Maps in a new tab.
+title: Benridane.
+upcomingMeetupHeading: ' Deep thinking for Simple.'
+noUpcomingMeetupText: NO UPCOMING
+mapsNote: finding..
 callToActions:
   firstCTA:
     heading: Past Meetups
@@ -19,10 +19,10 @@ callToActions:
     linkURL: 'https://twitter.com'
     subHeading: Want to present at an upcoming meetup? Contact us.
 seo:
-  browserTitle: JS Wakanda
+  browserTitle: Other
   description: >-
     JavaScript meetup group in Wakanda where JavaScript developers get together
     for presentations and to meet others in the community.
-  title: JavaScript Wakanda
+  title: Other
 ---
 

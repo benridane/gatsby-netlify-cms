@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
-title: hello benridane.
+title: Welcome benridane.
 mainImage:
   image: /img/annie-spratt-608001-unsplash.jpg
-  imageAlt: Wakanda JavaScript developer presenting at a meetup.
+  imageAlt: mettup
 gallery:
   - image: /img/neonbrand-509131-unsplash.jpg
     imageAlt: Wakanda JavaScript developer presenting at a meetup.
@@ -12,7 +12,7 @@ gallery:
   - image: /img/annie-spratt-608001-unsplash.jpg
     imageAlt: Wakanda developers working together at a table.
 developerGroups: |-
-  ## Other Wakanda Developer Groups
+  ## Other Benridane Developer Guide
 
   * [React & React Native Meetup](https://www.google.com)
   * [Python Meetup](https://www.google.com)
@@ -36,6 +36,4 @@ seo:
     the community.
   title: About | JS Wakanda
 ---
-## Sharing Ideas and Meeting Others
-
-JS Wakanda is a user group run by volunteers. We meet in borrowed spaces, graciously provided by different companies and organisations. Our purpose is to provide a place where our members have a good time talking about programming, sharing their knowledge and meeting other passionate folks. We keep it friendly, inclusive and positive.
+## 便利な生活を考えよう。
